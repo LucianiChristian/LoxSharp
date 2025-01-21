@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoxSharp", "LoxSharp\LoxSharp.csproj", "{04201787-DE09-4D78-A4D5-1150037382CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoxSharp.Tests", "LoxSharp.Tests\LoxSharp.Tests.csproj", "{0E179D78-CD27-4B45-8E18-8B52EAA310F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{04201787-DE09-4D78-A4D5-1150037382CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04201787-DE09-4D78-A4D5-1150037382CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04201787-DE09-4D78-A4D5-1150037382CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E179D78-CD27-4B45-8E18-8B52EAA310F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E179D78-CD27-4B45-8E18-8B52EAA310F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E179D78-CD27-4B45-8E18-8B52EAA310F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E179D78-CD27-4B45-8E18-8B52EAA310F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
